@@ -1,0 +1,24 @@
+body{
+    font-family: Times New Roman;
+}
+.sensor-list{
+    padding: 0;
+}
+.sensor-title{
+    margin-bottom: 10px;
+}
+.sensor-demo{
+    background: url("/static/images/white-gold-geometric-pattern-background-vector_53876-140726.webp");
+    background-size: cover;
+    max-width: 650px;
+    border-radius: 15px;
+    border: 2px solid black;
+    padding-top: 10px;
+    margin: 10px auto;
+}
+form{
+    float: right;
+}
+.bold{
+    font-weight: bold;
+}

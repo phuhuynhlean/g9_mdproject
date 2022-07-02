@@ -1,0 +1,38 @@
+nav{
+    text-align: center;
+    background: url("/static/images/orange-fragment-background.jpg");
+    background-size: cover;
+    padding: 50px 0px 0px 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+nav h1{
+    color: red;
+    font-size: 50px;
+}
+nav h2{
+    color: blue;
+    font-size: 25px;
+}
+ul{
+    width: 100%;
+    text-align: center;
+    background: rgba(0,0,0,0.4);
+}
+li{
+    display: inline;
+    padding: 20px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-decoration: none;
+}
+.li-active{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+    opacity: 70%;
+}
